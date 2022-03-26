@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajanchauhan165
-- 👀 I’m interested in web development & illustrations.
-- 🌱 I’m currently learning web development & graphics designing.
-- 💞️ I’m looking to collaborate on web dev projects.
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning MERN Stack.
+- 💞️ I’m looking to collaborate on Web dev projects.
 - 📫 Email me at rajanchauhan165@gmail.com
 
 <!---
