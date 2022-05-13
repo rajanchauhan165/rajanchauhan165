@@ -1,5 +1,5 @@
 **Hey there,**
-- 👋 I’m @rajanchauhan165
+- 👋 I’m Rajan Chauhan
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on Web Projects.
