@@ -16,11 +16,9 @@
 
 
 ## 🚀 About Me
-I am a tech enthusiast and currently learning the MERN stack and aspiring to become a successful web developer. Apart from this, I am also learning Graphics illustration & UI designing as a sideline.
+I am a tech enthusiast and currently learning Java backend development and aspiring to become a Java developer. Apart from this, I am also learning Graphics illustration & UI designing as a sideline.
+I am a motivated & disciplined individual with intermediate knowledge of Java, JavaScript, HTML, CSS & Adobe Illustration.
 
-I am a motivated & disciplined individual with intermediate knowledge of HTML, CSS, JavaScript & Adobe Illustration.
-
-Apart from this, I am a Bikes & Cars enthusiast, and my hobbies are playing PC games & cricket.
 
 
 <!---
