@@ -18,8 +18,9 @@
 
 
 ## 🚀 About Me
-I am a tech enthusiast and currently learning Java backend development and aspiring to become a Java developer. Apart from this, I am also learning Graphics illustration & UI designing as a sideline.
-I am a motivated & disciplined individual with intermediate knowledge of Java, JavaScript, HTML, CSS & Adobe Illustration.
+I am a tech enthusiast and currently learning Java backend development. Apart from this, I am also learning Graphics illustration & UI designing as a sideline.
+
+I am a motivated and disciplined individual with knowledge of tech stacks like Java, MySQL, Spring, JavaScript, Adobe Illustration, CSS and HTML.
 
 
 
