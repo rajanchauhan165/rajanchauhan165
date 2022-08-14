@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajan</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-![alt text](href="https://www.freepik.com/vectors/programmer">Programmer vector created by studio4rt - www.freepik.com)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanchauhan165&label=Profile%20views&color=0e75b6&style=flat" alt="rajanchauhan165" /> </p>
 
