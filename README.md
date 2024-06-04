@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajan_chauhan" target="blank"><img src="https://img.shields.io/twitter/follow/rajan_chauhan?logo=twitter&style=for-the-badge" alt="rajan_chauhan" /></a> </p>
 
-- 🔭 I’m currently learning **Data Analyst**
+- 🔭 I’m currently learning **Data Analytics**
 
 - 👯 I’m looking to collaborate on **DA Projects**
 
